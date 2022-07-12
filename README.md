@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a software developer, interested in Artificial Inteligence, Machine Learning, Deep Learning, Internet of Things and Web Development.
+### I am a software developer, interested in Artificial Intelligence, Machine Learning, Deep Learning, Internet of Things and Web Development.
 - 🔭 I’m currently working on some personal, but interesting side projects.
 - 🌱 I’m currently learning C and C++, combined with some Embedded Systems on Linux.
 - 💬 Ask me about anything in the fields, written above. I will be glad to help.
